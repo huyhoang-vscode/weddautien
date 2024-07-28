@@ -1,0 +1,10 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh; /* Đặt chiều cao của trang thành 100% chiều cao của cửa sổ */
+    background-image: url('image.jpg');
+    background-size: cover; /* Hoặc sử dụng contain nếu muốn ảnh vừa đủ mà không bị cắt */
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
